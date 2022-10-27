@@ -133,5 +133,9 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 
 menggunakan string format untuk membuat belah ketupat
 
+![Screenshot (603)](https://user-images.githubusercontent.com/115686359/198237722-0f8d59eb-6a3a-4b27-9cd3-f6232a9c63b1.png)
 
+## Latihan 4
+### Luas Lingakaran
+#### Flowchart untuk mencari luas lingkaran
 
