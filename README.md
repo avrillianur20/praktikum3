@@ -77,6 +77,32 @@ print('{0:>3} {1:>16}'.format(10, 10**10))
 
 ![Screenshot (596)](https://user-images.githubusercontent.com/115686359/198215087-002db1e5-0b56-4074-9b5b-3c84e8ef8877.png)
 
+#### Hasil Latihan 1
+
+![Screenshot (600)](https://user-images.githubusercontent.com/115686359/198220166-3436ef03-bc1f-4c25-afd1-552f9b8a6cd3.png)
+![Screenshot (601)](https://user-images.githubusercontent.com/115686359/198220799-01bdc5fc-689a-44e8-97d1-7c4cdb29f7aa.png)
+
+## Latihan 2
+
+### Input Variabel
+
+```
+a=input("masukkan nilai a:")
+b=input("masukkan nilai b:")
+```
+
+![Screenshot (592)](https://user-images.githubusercontent.com/115686359/198222142-29377500-0c60-4d93-8110-c892d1ef898f.png)
+
+### Mencetak Variabel
+
+mencetak variabel ketika sudah diinput
+
+```
+print("variabel a=",a)
+print("variabel b=",b)
+```
+
+![Screenshot (592)](https://user-images.githubusercontent.com/115686359/198223044-fa673466-a8c9-416f-bbac-c33f0e5c022f.png)
 
 
 
