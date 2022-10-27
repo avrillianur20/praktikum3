@@ -143,3 +143,35 @@ menggunakan string format untuk membuat belah ketupat
 
 #### Membuat program untuk menghitung luas lingkaran
 
+Rumus Luas Lingkaran yaitu : Phi r r atau Phi*r^2
+
+```
+print('Menghitung luas keliling lingakaran')
+print('==============================')
+```
+
+#### Mengimput suatu nilai jari-jari
+
+untuk mencari luas lingkaran
+
+```
+r = int(input('masukan jari-jari lingkaran: '))
+```
+
+#### Mendeklarasikan nilai Phi
+
+nilai Phi adalah 3,14 atau 22/7
+
+```
+phi = 3.14
+L = phi * (r * r)
+```
+
+#### Mencetak Hasil
+
+```
+print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
+```
+
+![Screenshot (604)](https://user-images.githubusercontent.com/115686359/198264527-07252f57-118a-4aaf-a431-75d73fb136ba.png)
+
