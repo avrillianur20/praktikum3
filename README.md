@@ -175,3 +175,7 @@ print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
 
 ![Screenshot (604)](https://user-images.githubusercontent.com/115686359/198264527-07252f57-118a-4aaf-a431-75d73fb136ba.png)
 
+#### Hasil Luas Lingkaran
+
+![Screenshot (604)](https://user-images.githubusercontent.com/115686359/198265029-08ba19a2-a3f6-4f38-a468-914f4bcd22fb.png)
+
