@@ -102,7 +102,31 @@ print("variabel a=",a)
 print("variabel b=",b)
 ```
 
-![Screenshot (592)](https://user-images.githubusercontent.com/115686359/198223044-fa673466-a8c9-416f-bbac-c33f0e5c022f.png)
+![Screenshot (592)](https://user-images.githubusercontent.com/115686359/198223544-edf1e693-fec1-4761-8266-fe5ef427093a.png)
 
+### Penggabungan Variabel
+
+penggabungan antara dua variabel
+
+```
+print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
+```
+
+![Screenshot (602)](https://user-images.githubusercontent.com/115686359/198224483-ffd0b054-a253-49e7-8348-5e3df7546aac.png)
+
+### Input dan konversi nilai variabel 2
+
+```
+a=int(a)
+b=int(b)
+print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
+
+![Screenshot (592)](https://user-images.githubusercontent.com/115686359/198226027-e075f7f7-69d0-49c0-8429-74a42759d8f3.png)
+
+### Hasil dari latihan 2
+
+![Screenshot (593)](https://user-images.githubusercontent.com/115686359/198226658-350cda7a-f863-4439-8f05-7d8d29c5266f.png)
 
 
