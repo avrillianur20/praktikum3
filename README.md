@@ -139,3 +139,7 @@ menggunakan string format untuk membuat belah ketupat
 ### Luas Lingakaran
 #### Flowchart untuk mencari luas lingkaran
 
+![Flowchart-menghitung-luas-keliling-lingkaran-1](https://user-images.githubusercontent.com/115686359/198240395-6defe5b6-fbc1-4a86-a0d6-c65c9d9ff6b9.png)
+
+#### Membuat program untuk menghitung luas lingkaran
+
