@@ -129,4 +129,9 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 
 ![Screenshot (593)](https://user-images.githubusercontent.com/115686359/198226658-350cda7a-f863-4439-8f05-7d8d29c5266f.png)
 
+## Latihan 3
+
+menggunakan string format untuk membuat belah ketupat
+
+
 
